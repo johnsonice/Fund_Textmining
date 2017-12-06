@@ -86,7 +86,13 @@ class document(object):
         
         return p_list
 
-
+def get_ids(xml):
+    """
+    input xml full name, return series id and file id 
+    """
+    series_id,xml_name = xml.split('-')
+    file_id,_ = xml_name.split('_') 
+    return series_id,file_id
 
 
 
