@@ -3,6 +3,8 @@
 *Data/
 downloads/
 Downloads/
+*.zip
+*.p
 
 
 # Byte-compiled / optimized / DLL files

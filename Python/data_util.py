@@ -94,7 +94,14 @@ def get_ids(xml):
     file_id,_ = xml_name.split('_') 
     return series_id,file_id
 
-
+def read_keywords(file):
+    """
+    file: csv file with keyword list
+    """
+    with open(file,'r') as f:
+        reader = csv.reader(f)
+        mylist = list(reader)
+    return mylist
 
 
 
