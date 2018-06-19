@@ -1,0 +1,11 @@
+Economic News Article Tone and Relevance
+Contributors read snippets of news articles. They then noted if the article was relevant to the US economy and, if so, what the tone of the article was. Tone was judged on a 9 point scale (from 1 to 9, with 1 representing the most negativity). Dataset contains these judgments as well as the dates, source titles, and text. Dates range from 1951 to 2014.
+
+Added: December 8, 2015 by CrowdFlower | Data Rows: 8000
+
+
+
+U.S. economic performance based on news articles
+Contributors viewed a new article headline and a short, bolded excerpt of a sentence or two from the attendant article. Next, they decided if the sentence in question provided an indication of the U.S. economy’s health, then rated the indication on a scale of 1-9, with 1 being negative and 9 being positive.
+
+Added: June 25, 2015 by CrowdFlower | Data Rows: 5000
