@@ -6,7 +6,7 @@ The purpose of this repository is to share some of the text mining work people h
 Idealy, we want to cover as many programming language as possible. Contributors with R and MATLAB experience are badly needed. 
 
 #### Current Topics we are going to cover 
-* __Intro to text analysis__ - introductions to some basics text analysis concepts  (tokenizing, stemming, remvoe stop words etc)  *[coming]*
+* __Intro to text analysis__ - introductions to some basics text analysis concepts  (tokenizing, stemming, remove stop words etc)  *[coming]*
 * __Download and process Com's XML data__ - basic clean ups for COM's xml database 
 * __Basic keyword search and dictionary based sentiment analysis__ - using IMF Staff Reports
 * __Word 2 vector, document 2 vector__ *[coming]*
