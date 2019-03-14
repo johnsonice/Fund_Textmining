@@ -9,8 +9,8 @@ Ideally, we want to cover as many programming languages as possible. Contributor
 * __Intro to text analysis__ - introductions to some basic text analysis concepts  (tokenizing, stemming, removing stop words etc)  *[coming]*
 * __Download and process COM's XML data__ - basic clean ups for COM's xml database 
 * __Basic keyword search__ - using IMF Staff Reports
-* __Word Embedding__ - Word 2 vector, document 2 vector *[coming]*
-* __Topic modeling__ - such as LDA *[coming]*
-* __Sentiment analysis__ - both dictionary-based and machine-learning based *[coming]*
+* __Word Embedding__ - Word 2 vector, document 2 vector
+* __Topic modeling__ - such as LDA
+* __Sentiment analysis__ - both dictionary-based and machine-learning based
 * __Document similarity measure__  *[coming]*
-* __Data visualization__ - word cloud, word embedding projection, topic model distribution, knowledge graph etc *[coming]*
+* __Data visualization__ - word cloud, embedding projection, ldaViz, knowledge graph etc
